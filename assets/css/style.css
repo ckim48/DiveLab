@@ -549,7 +549,7 @@ section {
 # About
 --------------------------------------------------------------*/
 #about{
-  height:600px;
+/*  height:600px;*/
   background-color: black;
   color:white;
 }
